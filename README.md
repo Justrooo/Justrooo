@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Justrooo
 - 👀 I’m interested in programming and sports
-- 🌱 I’m currently learning python 3.9
+- 🌱 I’m currently learning c++
 - 📫 How to reach me Justro#0867 (discord)
 
 <!---
