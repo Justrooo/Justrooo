@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Justrooo
 - 👀 I’m interested in programming and sports
 - 🌱 I’m currently learning c++
-- 📫 How to reach me Justro#0867 (discord)
+- 📫 How to reach me Justro#1111 (discord)
 
 <!---
 Justrooo/Justrooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
